@@ -1,15 +1,9 @@
 import React from "react";
 
-import Navbar from "./Components/Navbar";
-import HeroSection from "./Components/HeroSection";
+import PageLayout from "./Components/PageLayout";
 
 const App = () => {
-  return (
-    <>
-      <Navbar />
-      <HeroSection/>
-    </>
-  );
+  return <PageLayout />;
 };
 
 export default App;
