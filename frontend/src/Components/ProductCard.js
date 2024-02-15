@@ -1,9 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-// import rabdi1 from "../Assets/rabdi1.png";
-// import rabdi2 from "../Assets/rabdi2.png";
-// import rabdi3 from "../Assets/rabdi3.png";
-// import products from "../Assets/fake-data/products";
+
 import "./ProductCard.css"
 
 const ProductCard = (props) => {
